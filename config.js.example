@@ -1,0 +1,14 @@
+// Configurasjonen til boten
+
+module.exports = {
+  prefix: "ab", 
+  id: "", 
+  discordInvite: "https://discord.gg/", 
+  clientSecret: "", 
+  token: "",
+
+  accessId: {
+    0: [],
+    1: ["]
+  }
+};
